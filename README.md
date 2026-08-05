@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [2299-strong-password-checker-ii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2299-strong-password-checker-ii) |
 <!---LeetCode Topics End-->
