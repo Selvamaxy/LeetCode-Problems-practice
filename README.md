@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
 ## Design
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
