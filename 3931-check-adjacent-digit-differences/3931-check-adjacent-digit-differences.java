@@ -4,10 +4,9 @@ class Solution {
         for(int i=0;i<s.length()-1;i++){
             int d=Math.abs(s.charAt(i)-s.charAt(i+1));
             if(d>2) t=0;
-
         }
-        if(t==1) return true;
-        else
-            return false;
-    }
+        if(t==1)return true;
+        else 
+        return false;
+            }
 }
