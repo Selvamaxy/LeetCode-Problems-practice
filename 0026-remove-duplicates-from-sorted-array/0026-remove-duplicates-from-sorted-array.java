@@ -7,6 +7,6 @@ class Solution {
               
             }
         }
-        return index+1;
+        return ++index;
     }
 }
