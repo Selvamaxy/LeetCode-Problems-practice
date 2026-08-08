@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2299-strong-password-checker-ii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2299-strong-password-checker-ii) |
 | [3110-score-of-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3110-score-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3931-check-adjacent-digit-differences) |
