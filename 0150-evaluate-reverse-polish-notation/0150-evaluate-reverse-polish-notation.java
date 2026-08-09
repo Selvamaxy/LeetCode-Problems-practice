@@ -16,7 +16,7 @@ class Solution {
             {
                 st.push(Integer.parseInt(w));
             }
-            System.out.println(st.peek());
+           //System.out.println(st.peek());
         }
         return st.pop();
     }
