@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0075-sort-colors) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2299-strong-password-checker-ii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2299-strong-password-checker-ii) |
 | [3110-score-of-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3110-score-of-a-string) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
