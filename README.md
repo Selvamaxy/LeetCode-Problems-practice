@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Design
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0075-sort-colors) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2716-minimize-string-length) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
