@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2299-strong-password-checker-ii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2299-strong-password-checker-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2716-minimize-string-length) |
 ## Bit Manipulation
@@ -101,5 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
