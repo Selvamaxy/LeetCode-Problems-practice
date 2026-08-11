@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2299-strong-password-checker-ii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2299-strong-password-checker-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2716-minimize-string-length) |
 | [3110-score-of-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3110-score-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3931-check-adjacent-digit-differences) |
@@ -91,5 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2716-minimize-string-length) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
