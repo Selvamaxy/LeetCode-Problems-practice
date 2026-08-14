@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
