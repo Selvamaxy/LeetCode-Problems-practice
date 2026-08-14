@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Design
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
