@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1108-defanging-an-ip-address](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1108-defanging-an-ip-address) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2299-strong-password-checker-ii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
