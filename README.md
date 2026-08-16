@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0155-min-stack) |
 ## Trie
 |  |
 | ------- |
