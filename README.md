@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1108-defanging-an-ip-address) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3560-find-minimum-log-transportation-cost) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
