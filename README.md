@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0374-guess-number-higher-or-lower](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1929-concatenation-of-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
