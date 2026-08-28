@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
 | [1929-concatenation-of-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Design
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
