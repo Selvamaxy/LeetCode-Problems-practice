@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0705-design-hashset) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2716-minimize-string-length) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0705-design-hashset) |
 ## Graph Theory
 |  |
 | ------- |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0836-rectangle-overlap) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
