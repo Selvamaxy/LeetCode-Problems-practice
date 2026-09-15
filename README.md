@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0303-range-sum-query-immutable) |
+| [0704-binary-search](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0374-guess-number-higher-or-lower](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
