@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2716-minimize-string-length) |
 | [3110-score-of-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3803-count-residue-prefixes](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3803-count-residue-prefixes) |
 | [3931-check-adjacent-digit-differences](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3931-check-adjacent-digit-differences) |
 ## Math
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
 | ------- |
