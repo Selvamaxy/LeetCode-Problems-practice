@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0705-design-hashset) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Selvamaxy/LeetCode-Problems-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
